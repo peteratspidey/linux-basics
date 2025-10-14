@@ -54,3 +54,19 @@ history
 * `-d N` to delete history from a particular starting history no.
 * `-a` saves new commands to history file on disk
 * `-n` reads new commands from history file that were added by other sessions
+
+## to create a file 
+### using cat
+```bash
+cat >> <filename.txt>
+```
+### using touch
+```bash
+ touch <filname.txt>
+```
+### using text editors 
+```bash
+vi/vim/gedit/nano <filename>
+```
+> choose any of the given text editors
+
