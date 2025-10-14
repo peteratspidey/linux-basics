@@ -36,4 +36,12 @@ cd /home/peter/downloads
 ```bash
 pwd
 ```
+## check the shell name that u are using
+```bash
+echo $0
+```
+## to check the process id of the current shell 
+```bash
+echo $$
+```
 
