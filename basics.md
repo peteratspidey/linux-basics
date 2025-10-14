@@ -44,4 +44,13 @@ echo $0
 ```bash
 echo $$
 ```
-
+## to check the history 
+```bash
+history
+```
+### flags
+* `-c` to clear all
+* `-N` to show N no of history
+* `-d N` to delete history from a particular starting history no.
+* `-a` saves new commands to history file on disk
+* `-n` reads new commands from history file that were added by other sessions
