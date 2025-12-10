@@ -18,6 +18,7 @@ sudo apt install curl
 provide gnu-privacy guard 
 ```bash
 sudo apt install GnuPG
+```
 > use to verify digital signature of downloaded packages, ensures authencity of the repo that u hav added
 
 ## lsb-release
