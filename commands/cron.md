@@ -23,3 +23,5 @@ crontab -e
 to run a bash file regularly at 8:30 in the morning
 
 # to resolve the pass word authentication 
+add the crontab into the sudeors file
+check the documentation of how to add sudo rights to any commands using [visudo](
