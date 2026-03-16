@@ -1,8 +1,6 @@
 If you want commands like
 
-```bash
-docker start -ai vivek_shigella
-```
+`docker start -ai vivek_shigella`
 
 to appear **colorful and easier to read**, the best option is to use **Zsh with Oh-My-Zsh**. It is widely used on Linux for a **colorful prompt, command highlighting, and auto-suggestions**.
 
